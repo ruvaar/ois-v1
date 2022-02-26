@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.lang.Math;
-
 public class Gravitacija {
     public static void main(String[] args) {
 
@@ -16,7 +15,6 @@ public class Gravitacija {
             System.out.println(nadmorskaVisina);
             System.out.println(gravitacijskiPospesek);
         }
-
         System.out.println("OIS je zakon!");
     }
 }
